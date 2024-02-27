@@ -72,7 +72,7 @@ const card3 = (
                 Unlock advanced weather insights, including detailed forecasts, historical data, and specialized alerts.
             </Typography>
             <Typography variant="body2" color="text.secondary">
-                Unlimited location tracking
+                Unlimited location tracking feature for diamond plan only.
             </Typography>
             </div>
         </CardContent>
