@@ -23,7 +23,7 @@ export default function Footer() {
             <div className='flex flex-col items-center gap-3'>
                 <Copyright />
                 <Link href='https://github.com/Civic86/Adv-final-Project' className='no-underline'>
-                    <Button variant="outlined" className="normal-case flex flex-row gap-2 w-full border-solid border-white text-black bg-white hover:bg-white/90 shadow-md rounded-lg">
+                    <Button variant="outlined" className="normal-case flex flex-row gap-2 w-full border-solid border-white text-black bg-white hover:bg-white/90 hover:border-none shadow-md rounded-lg">
                         <GitHubIcon />
                         GitHub
                     </Button>
