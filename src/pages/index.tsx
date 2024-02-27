@@ -27,7 +27,7 @@ export default function Home() {
           scene="https://prod.spline.design/Tivl2HLEwDLPzDou/scene.splinecode" 
         />
         <p className="text-black px-10 py-2 md:px-18 bg-white border-dotted border-2 border-lgreen">PocketForecast adds a touch of adventure to weather awareness. Say goodbye to the boring and dull weather updates and immerse yourself in a world where Pokémon come to life.</p>
-        <Button variant="contained" className="text-sblue w-[30%] bg-white rounded-lg px-5 py-2 md:w-[15%] lg:w-[8%]">Try it out</Button>
+        <Button variant="contained" className="text-sblue w-[30%] bg-white hover:bg-white/90 rounded-lg px-5 py-2 md:w-[15%] lg:w-[8%]">Try it out</Button>
         <div className="flex flex-col gap-10 px-10">
           <Cards />
           <SubBanner />

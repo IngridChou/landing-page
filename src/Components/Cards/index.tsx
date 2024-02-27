@@ -27,7 +27,7 @@ const card1 = (
             </div>
         </CardContent>
         <CardActions>
-            <Button variant="contained" size="small" className='text-gray-400 rounded-lg px-5 py-2'>Get Started</Button>
+            <Button variant="contained" size="small" className='text-gray-400 bg-white hover:bg-white/90 rounded-lg px-5 py-2'>Get Started</Button>
         </CardActions>
     </React.Fragment>
 );
@@ -52,7 +52,7 @@ const card2 = (
             </div>
         </CardContent>
         <CardActions>
-            <Button variant="contained" size="small" className='bg-lgreen rounded-lg px-5 py-2'>Get Started</Button>
+            <Button variant="contained" size="small" className='bg-lgreen hover:bg-lgreen/90 rounded-lg px-5 py-2'>Get Started</Button>
         </CardActions>
     </React.Fragment>
 );
@@ -77,7 +77,7 @@ const card3 = (
             </div>
         </CardContent>
         <CardActions>
-            <Button variant="contained" size="small" className='bg-sblue rounded-lg px-5 py-2'>Get Started</Button>
+            <Button variant="contained" size="small" className='bg-sblue hover:bg-sblue/90 rounded-lg px-5 py-2'>Get Started</Button>
         </CardActions>
     </React.Fragment>
 );
